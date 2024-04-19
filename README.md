@@ -1,6 +1,6 @@
 # SURFr-Sequence-Alignment
 
-All source code for the local GUI implementation of the SURFr RNA-Sequence Alignment (RNA-Seq) software developed by Nick 
+All source code for the local GUI implementation of the Fragment Finder RNA-Sequence Alignment tool developed by Nick 
 Campbell under Dr. Jingshan Huang of the University of South Alabama School of Computing and Dr. Glen Borchert of 
 the Whiddon College of Medicine within the University of South Alabama. 
 
